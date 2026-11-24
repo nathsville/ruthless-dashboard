@@ -1,0 +1,394 @@
+[
+  {
+    "url": "https://demos.shadcndashboard.dev/images/flag/icon-flag-en.svg",
+    "output": "public/images/flag/icon-flag-en.svg",
+    "bytes": 1255,
+    "acquiredAt": "2026-11-18T23:17:30.380Z",
+    "purpose": "User-requested visual reconstruction reference asset; verify license before redistribution."
+  },
+  {
+    "url": "https://demos.shadcndashboard.dev/images/backgrounds/404.svg",
+    "output": "public/images/backgrounds/404.svg",
+    "bytes": 2824,
+    "acquiredAt": "2026-11-18T23:17:30.402Z",
+    "purpose": "User-requested visual reconstruction reference asset; verify license before redistribution."
+  },
+  {
+    "url": "https://demos.shadcndashboard.dev/images/svgs/google-icon.svg",
+    "output": "public/images/svgs/google-icon.svg",
+    "bytes": 1203,
+    "acquiredAt": "2026-11-18T23:17:30.402Z",
+    "purpose": "User-requested visual reconstruction reference asset; verify license before redistribution."
+  },
+  {
+    "url": "https://demos.shadcndashboard.dev/images/backgrounds/analytic-user.svg",
+    "output": "public/images/backgrounds/analytic-user.svg",
+    "bytes": 22265,
+    "acquiredAt": "2026-11-18T23:17:30.404Z",
+    "purpose": "User-requested visual reconstruction reference asset; verify license before redistribution."
+  },
+  {
+    "url": "https://demos.shadcndashboard.dev/images/backgrounds/analytic-user-dark.svg",
+    "output": "public/images/backgrounds/analytic-user-dark.svg",
+    "bytes": 22333,
+    "acquiredAt": "2026-11-18T23:17:30.541Z",
+    "purpose": "User-requested visual reconstruction reference asset; verify license before redistribution."
+  },
+  {
+    "url": "https://demos.shadcndashboard.dev/images/backgrounds/profilebg.png",
+    "output": "public/images/backgrounds/profilebg.png",
+    "bytes": 649977,
+    "acquiredAt": "2026-11-18T23:17:31.128Z",
+    "purpose": "User-requested visual reconstruction reference asset; verify license before redistribution."
+  },
+  {
+    "url": "https://demos.shadcndashboard.dev/images/svgs/github-icon.svg",
+    "output": "public/images/svgs/github-icon.svg",
+    "bytes": 2908,
+    "acquiredAt": "2026-11-18T23:17:31.256Z",
+    "purpose": "User-requested visual reconstruction reference asset; verify license before redistribution."
+  },
+  {
+    "url": "https://demos.shadcndashboard.dev/images/profile/user-2.png",
+    "output": "public/images/profile/user-2.png",
+    "bytes": 327989,
+    "acquiredAt": "2026-11-18T23:17:31.403Z",
+    "purpose": "User-requested visual reconstruction reference asset; verify license before redistribution."
+  },
+  {
+    "url": "https://demos.shadcndashboard.dev/images/profile/user-1.png",
+    "output": "public/images/profile/user-1.png",
+    "bytes": 261751,
+    "acquiredAt": "2026-11-18T23:17:31.616Z",
+    "purpose": "User-requested visual reconstruction reference asset; verify license before redistribution."
+  },
+  {
+    "url": "https://demos.shadcndashboard.dev/images/profile/user-5.png",
+    "output": "public/images/profile/user-5.png",
+    "bytes": 275370,
+    "acquiredAt": "2026-11-18T23:17:31.627Z",
+    "purpose": "User-requested visual reconstruction reference asset; verify license before redistribution."
+  },
+  {
+    "url": "https://demos.shadcndashboard.dev/images/profile/user-3.png",
+    "output": "public/images/profile/user-3.png",
+    "bytes": 307234,
+    "acquiredAt": "2026-11-18T23:17:31.668Z",
+    "purpose": "User-requested visual reconstruction reference asset; verify license before redistribution."
+  },
+  {
+    "url": "https://demos.shadcndashboard.dev/images/profile/user-4.png",
+    "output": "public/images/profile/user-4.png",
+    "bytes": 448222,
+    "acquiredAt": "2026-11-18T23:17:31.805Z",
+    "purpose": "User-requested visual reconstruction reference asset; verify license before redistribution."
+  },
+  {
+    "url": "https://demos.shadcndashboard.dev/images/profile/user-8.png",
+    "output": "public/images/profile/user-8.png",
+    "bytes": 317790,
+    "acquiredAt": "2026-11-18T23:17:32.055Z",
+    "purpose": "User-requested visual reconstruction reference asset; verify license before redistribution."
+  },
+  {
+    "url": "https://demos.shadcndashboard.dev/images/profile/user-9.png",
+    "output": "public/images/profile/user-9.png",
+    "bytes": 352518,
+    "acquiredAt": "2026-11-18T23:17:32.238Z",
+    "purpose": "User-requested visual reconstruction reference asset; verify license before redistribution."
+  },
+  {
+    "url": "https://demos.shadcndashboard.dev/images/profile/user-7.png",
+    "output": "public/images/profile/user-7.png",
+    "bytes": 392250,
+    "acquiredAt": "2026-11-18T23:17:32.285Z",
+    "purpose": "User-requested visual reconstruction reference asset; verify license before redistribution."
+  },
+  {
+    "url": "https://demos.shadcndashboard.dev/images/profile/user-6.png",
+    "output": "public/images/profile/user-6.png",
+    "bytes": 191154,
+    "acquiredAt": "2026-11-18T23:17:32.316Z",
+    "purpose": "User-requested visual reconstruction reference asset; verify license before redistribution."
+  },
+  {
+    "url": "https://demos.shadcndashboard.dev/images/products/beauty-product.png",
+    "output": "public/images/products/beauty-product.png",
+    "bytes": 1755125,
+    "acquiredAt": "2026-11-18T23:17:33.640Z",
+    "purpose": "User-requested visual reconstruction reference asset; verify license before redistribution."
+  },
+  {
+    "url": "https://demos.shadcndashboard.dev/images/products/advance-macbook.png",
+    "output": "public/images/products/advance-macbook.png",
+    "bytes": 1796418,
+    "acquiredAt": "2026-11-18T23:17:34.276Z",
+    "purpose": "User-requested visual reconstruction reference asset; verify license before redistribution."
+  },
+  {
+    "url": "https://demos.shadcndashboard.dev/images/products/short-sweet-purse.png",
+    "output": "public/images/products/short-sweet-purse.png",
+    "bytes": 1933189,
+    "acquiredAt": "2026-11-18T23:17:36.058Z",
+    "purpose": "User-requested visual reconstruction reference asset; verify license before redistribution."
+  },
+  {
+    "url": "https://demos.shadcndashboard.dev/images/products/boat-headphone.png",
+    "output": "public/images/products/boat-headphone.png",
+    "bytes": 469124,
+    "acquiredAt": "2026-11-18T23:17:37.453Z",
+    "purpose": "User-requested visual reconstruction reference asset; verify license before redistribution."
+  },
+  {
+    "url": "https://demos.shadcndashboard.dev/images/products/shoes.png",
+    "output": "public/images/products/shoes.png",
+    "bytes": 2002653,
+    "acquiredAt": "2026-11-18T23:17:37.555Z",
+    "purpose": "User-requested visual reconstruction reference asset; verify license before redistribution."
+  },
+  {
+    "url": "https://demos.shadcndashboard.dev/images/products/new-games.png",
+    "output": "public/images/products/new-games.png",
+    "bytes": 1692921,
+    "acquiredAt": "2026-11-18T23:17:38.281Z",
+    "purpose": "User-requested visual reconstruction reference asset; verify license before redistribution."
+  },
+  {
+    "url": "https://demos.shadcndashboard.dev/images/products/new-book.png",
+    "output": "public/images/products/new-book.png",
+    "bytes": 2218371,
+    "acquiredAt": "2026-11-18T23:17:38.281Z",
+    "purpose": "User-requested visual reconstruction reference asset; verify license before redistribution."
+  },
+  {
+    "url": "https://demos.shadcndashboard.dev/images/products/little-angel-toy.png",
+    "output": "public/images/products/little-angel-toy.png",
+    "bytes": 1610513,
+    "acquiredAt": "2026-11-18T23:17:38.282Z",
+    "purpose": "User-requested visual reconstruction reference asset; verify license before redistribution."
+  },
+  {
+    "url": "https://demos.shadcndashboard.dev/images/blog/blog-img2.png",
+    "output": "public/images/blog/blog-img2.png",
+    "bytes": 183817,
+    "acquiredAt": "2026-11-18T23:17:38.520Z",
+    "purpose": "User-requested visual reconstruction reference asset; verify license before redistribution."
+  },
+  {
+    "url": "https://demos.shadcndashboard.dev/images/blog/blog-img3.png",
+    "output": "public/images/blog/blog-img3.png",
+    "bytes": 248312,
+    "acquiredAt": "2026-11-18T23:17:38.787Z",
+    "purpose": "User-requested visual reconstruction reference asset; verify license before redistribution."
+  },
+  {
+    "url": "https://demos.shadcndashboard.dev/images/blog/blog-img1.png",
+    "output": "public/images/blog/blog-img1.png",
+    "bytes": 243914,
+    "acquiredAt": "2026-11-18T23:17:39.122Z",
+    "purpose": "User-requested visual reconstruction reference asset; verify license before redistribution."
+  },
+  {
+    "url": "https://demos.shadcndashboard.dev/images/products/woman-dress.png",
+    "output": "public/images/products/woman-dress.png",
+    "bytes": 1052611,
+    "acquiredAt": "2026-11-18T23:17:39.734Z",
+    "purpose": "User-requested visual reconstruction reference asset; verify license before redistribution."
+  },
+  {
+    "url": "https://demos.shadcndashboard.dev/images/products/toy-dino.png",
+    "output": "public/images/products/toy-dino.png",
+    "bytes": 1514851,
+    "acquiredAt": "2026-11-18T23:17:39.930Z",
+    "purpose": "User-requested visual reconstruction reference asset; verify license before redistribution."
+  },
+  {
+    "url": "https://demos.shadcndashboard.dev/images/products/teddybear.png",
+    "output": "public/images/products/teddybear.png",
+    "bytes": 1665097,
+    "acquiredAt": "2026-11-18T23:17:42.406Z",
+    "purpose": "User-requested visual reconstruction reference asset; verify license before redistribution."
+  },
+  {
+    "url": "https://demos.shadcndashboard.dev/images/blog/blog-img9.png",
+    "output": "public/images/blog/blog-img9.png",
+    "bytes": 274640,
+    "acquiredAt": "2026-11-18T23:17:43.005Z",
+    "purpose": "User-requested visual reconstruction reference asset; verify license before redistribution."
+  },
+  {
+    "url": "https://demos.shadcndashboard.dev/images/blog/blog-img6.png",
+    "output": "public/images/blog/blog-img6.png",
+    "bytes": 314094,
+    "acquiredAt": "2026-11-18T23:17:43.109Z",
+    "purpose": "User-requested visual reconstruction reference asset; verify license before redistribution."
+  },
+  {
+    "url": "https://demos.shadcndashboard.dev/images/blog/blog-img5.png",
+    "output": "public/images/blog/blog-img5.png",
+    "bytes": 335830,
+    "acquiredAt": "2026-11-18T23:17:43.432Z",
+    "purpose": "User-requested visual reconstruction reference asset; verify license before redistribution."
+  },
+  {
+    "url": "https://demos.shadcndashboard.dev/images/blog/blog-img4.png",
+    "output": "public/images/blog/blog-img4.png",
+    "bytes": 300124,
+    "acquiredAt": "2026-11-18T23:17:43.485Z",
+    "purpose": "User-requested visual reconstruction reference asset; verify license before redistribution."
+  },
+  {
+    "url": "https://demos.shadcndashboard.dev/images/blog/blog-img8.png",
+    "output": "public/images/blog/blog-img8.png",
+    "bytes": 353114,
+    "acquiredAt": "2026-11-18T23:17:43.635Z",
+    "purpose": "User-requested visual reconstruction reference asset; verify license before redistribution."
+  },
+  {
+    "url": "https://demos.shadcndashboard.dev/images/blog/blog-img12.png",
+    "output": "public/images/blog/blog-img12.png",
+    "bytes": 558711,
+    "acquiredAt": "2026-11-18T23:17:43.635Z",
+    "purpose": "User-requested visual reconstruction reference asset; verify license before redistribution."
+  },
+  {
+    "url": "https://demos.shadcndashboard.dev/images/products/recent-sales/minimalist.webp",
+    "output": "public/images/products/recent-sales/minimalist.webp",
+    "bytes": 21070,
+    "acquiredAt": "2026-11-18T23:17:43.782Z",
+    "purpose": "User-requested visual reconstruction reference asset; verify license before redistribution."
+  },
+  {
+    "url": "https://demos.shadcndashboard.dev/images/products/recent-sales/luxesoft.webp",
+    "output": "public/images/products/recent-sales/luxesoft.webp",
+    "bytes": 10122,
+    "acquiredAt": "2026-11-18T23:17:43.786Z",
+    "purpose": "User-requested visual reconstruction reference asset; verify license before redistribution."
+  },
+  {
+    "url": "https://demos.shadcndashboard.dev/images/products/recent-sales/solardesk.webp",
+    "output": "public/images/products/recent-sales/solardesk.webp",
+    "bytes": 10448,
+    "acquiredAt": "2026-11-18T23:17:43.788Z",
+    "purpose": "User-requested visual reconstruction reference asset; verify license before redistribution."
+  },
+  {
+    "url": "https://demos.shadcndashboard.dev/images/products/recent-sales/wireless.webp",
+    "output": "public/images/products/recent-sales/wireless.webp",
+    "bytes": 9074,
+    "acquiredAt": "2026-11-18T23:17:43.788Z",
+    "purpose": "User-requested visual reconstruction reference asset; verify license before redistribution."
+  },
+  {
+    "url": "https://demos.shadcndashboard.dev/images/products/latest/wirelessPad.webp",
+    "output": "public/images/products/latest/wirelessPad.webp",
+    "bytes": 1510,
+    "acquiredAt": "2026-11-18T23:17:43.789Z",
+    "purpose": "User-requested visual reconstruction reference asset; verify license before redistribution."
+  },
+  {
+    "url": "https://demos.shadcndashboard.dev/images/products/recent-sales/artisan.webp",
+    "output": "public/images/products/recent-sales/artisan.webp",
+    "bytes": 17014,
+    "acquiredAt": "2026-11-18T23:17:43.815Z",
+    "purpose": "User-requested visual reconstruction reference asset; verify license before redistribution."
+  },
+  {
+    "url": "https://demos.shadcndashboard.dev/images/products/latest/ergonomic.webp",
+    "output": "public/images/products/latest/ergonomic.webp",
+    "bytes": 1652,
+    "acquiredAt": "2026-11-18T23:17:43.938Z",
+    "purpose": "User-requested visual reconstruction reference asset; verify license before redistribution."
+  },
+  {
+    "url": "https://demos.shadcndashboard.dev/images/products/latest/bluetooth.webp",
+    "output": "public/images/products/latest/bluetooth.webp",
+    "bytes": 1128,
+    "acquiredAt": "2026-11-18T23:17:43.938Z",
+    "purpose": "User-requested visual reconstruction reference asset; verify license before redistribution."
+  },
+  {
+    "url": "https://demos.shadcndashboard.dev/_next/static/media/caa3a2e1cccd8315-s.p.09~u27dqhyhd6.woff2",
+    "output": "public/fonts/geist-latin.woff2",
+    "bytes": 29288,
+    "acquiredAt": "2026-11-18T23:17:43.955Z",
+    "purpose": "User-requested visual reconstruction reference asset; verify license before redistribution."
+  },
+  {
+    "url": "https://demos.shadcndashboard.dev/animations/emoji/sun.json",
+    "output": "public/animations/emoji/sun.json",
+    "bytes": 18283,
+    "acquiredAt": "2026-11-18T23:17:43.958Z",
+    "purpose": "User-requested visual reconstruction reference asset; verify license before redistribution."
+  },
+  {
+    "url": "https://demos.shadcndashboard.dev/animations/emoji/moon.json",
+    "output": "public/animations/emoji/moon.json",
+    "bytes": 36591,
+    "acquiredAt": "2026-11-18T23:17:43.958Z",
+    "purpose": "User-requested visual reconstruction reference asset; verify license before redistribution."
+  },
+  {
+    "url": "https://demos.shadcndashboard.dev/images/products/latest/smartHome.webp",
+    "output": "public/images/products/latest/smartHome.webp",
+    "bytes": 1632,
+    "acquiredAt": "2026-11-18T23:17:43.975Z",
+    "purpose": "User-requested visual reconstruction reference asset; verify license before redistribution."
+  },
+  {
+    "url": "https://images.shadcnspace.com/assets/shadcn-dashboard/dashboard-shell/iced-caramel-macchiato.webp",
+    "output": "public/images/dishes/iced-caramel-macchiato.webp",
+    "bytes": 55420,
+    "acquiredAt": "2026-11-18T23:17:44.519Z",
+    "purpose": "User-requested visual reconstruction reference asset; verify license before redistribution."
+  },
+  {
+    "url": "https://images.shadcnspace.com/assets/shadcn-dashboard/dashboard-shell/laptop-desk.png",
+    "output": "public/images/promos/laptop-desk.png",
+    "bytes": 85853,
+    "acquiredAt": "2026-11-18T23:17:44.587Z",
+    "purpose": "User-requested visual reconstruction reference asset; verify license before redistribution."
+  },
+  {
+    "url": "https://images.shadcnspace.com/assets/shadcn-dashboard/dashboard-shell/woodfired-margherita-pizza.webp",
+    "output": "public/images/dishes/woodfired-margherita-pizza.webp",
+    "bytes": 243632,
+    "acquiredAt": "2026-11-18T23:17:44.727Z",
+    "purpose": "User-requested visual reconstruction reference asset; verify license before redistribution."
+  },
+  {
+    "url": "https://images.shadcnspace.com/assets/shadcn-dashboard/dashboard-shell/truffle-mushroom-burger.webp",
+    "output": "public/images/dishes/truffle-mushroom-burger.webp",
+    "bytes": 131780,
+    "acquiredAt": "2026-11-18T23:17:44.775Z",
+    "purpose": "User-requested visual reconstruction reference asset; verify license before redistribution."
+  },
+  {
+    "url": "https://images.shadcnspace.com/assets/shadcn-dashboard/dashboard-shell/pepperoni-pizza.webp",
+    "output": "public/images/dishes/pepperoni-pizza.webp",
+    "bytes": 289616,
+    "acquiredAt": "2026-11-18T23:17:44.816Z",
+    "purpose": "User-requested visual reconstruction reference asset; verify license before redistribution."
+  },
+  {
+    "url": "https://images.shadcnspace.com/assets/shadcn-dashboard/dashboard-shell/avocado-caesar-bowl.webp",
+    "output": "public/images/dishes/avocado-caesar-bowl.webp",
+    "bytes": 269812,
+    "acquiredAt": "2026-11-18T23:17:44.891Z",
+    "purpose": "User-requested visual reconstruction reference asset; verify license before redistribution."
+  },
+  {
+    "url": "https://images.shadcnspace.com/assets/shadcn-dashboard/dashboard-shell/laptop-desk-2.png",
+    "output": "public/images/promos/laptop-desk-2.png",
+    "bytes": 40837,
+    "acquiredAt": "2026-11-18T23:17:45.042Z",
+    "purpose": "User-requested visual reconstruction reference asset; verify license before redistribution."
+  },
+  {
+    "url": "https://images.shadcnspace.com/assets/shadcn-dashboard/dashboard-shell/laptop-desk-3.png",
+    "output": "public/images/promos/laptop-desk-3.png",
+    "bytes": 54074,
+    "acquiredAt": "2026-11-18T23:17:45.043Z",
+    "purpose": "User-requested visual reconstruction reference asset; verify license before redistribution."
+  }
+]
